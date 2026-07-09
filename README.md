@@ -88,3 +88,24 @@ The project aims to strengthen brand awareness, improve market positioning, and 
 - Prepare professional presentation  
 
 ---
+---
+
+## Project Resources
+
+### Google Drive Repository
+
+This shared Google Drive folder contains all project resources throughout the development process, including:
+
+- Market Research
+- Competitor Analysis
+- SWOT Analysis
+- Branding Assets
+- Marketing Strategy Documents
+- Presentation Files
+- Reports & References
+- Final Deliverables
+
+**Access the Project Folder:**  
+🔗 [https://drive.google.com/drive/folders/19Yb931958WEuX7ZTQ54nbeIpiF8B1IBp?usp=sharing]
+
+> Please use the shared folder as the primary source for all project files and ensure documents are updated regularly.
